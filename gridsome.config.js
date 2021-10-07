@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "SHED626 Graphic Design Studio",
+  siteUrl: `https://www.shed626graphics.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  siteDescription: "Studio Grafico SHED626 Firenze",
   plugins: [
     {
       use: "@gridsome/source-filesystem",

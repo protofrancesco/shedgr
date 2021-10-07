@@ -1,9 +1,9 @@
-const c1 = () => import(/* webpackChunkName: "page--src--templates--project-post-vue" */ "/Users/Francesco/Downloads/shedgraf/src/templates/ProjectPost.vue")
-const c2 = () => import(/* webpackChunkName: "page--src--templates--journal-post-vue" */ "/Users/Francesco/Downloads/shedgraf/src/templates/JournalPost.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--journal-vue" */ "/Users/Francesco/Downloads/shedgraf/src/pages/Journal.vue")
-const c4 = () => import(/* webpackChunkName: "page--src--pages--contact-vue" */ "/Users/Francesco/Downloads/shedgraf/src/pages/Contact.vue")
-const c5 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Francesco/Downloads/shedgraf/node_modules/gridsome/app/pages/404.vue")
-const c6 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Francesco/Downloads/shedgraf/src/pages/Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--templates--project-post-vue" */ "/Users/Francesco/shedgr/src/templates/ProjectPost.vue")
+const c2 = () => import(/* webpackChunkName: "page--src--templates--journal-post-vue" */ "/Users/Francesco/shedgr/src/templates/JournalPost.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--journal-vue" */ "/Users/Francesco/shedgr/src/pages/Journal.vue")
+const c4 = () => import(/* webpackChunkName: "page--src--pages--contact-vue" */ "/Users/Francesco/shedgr/src/pages/Contact.vue")
+const c5 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Francesco/shedgr/node_modules/gridsome/app/pages/404.vue")
+const c6 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Francesco/shedgr/src/pages/Index.vue")
 
 export default [
   {
