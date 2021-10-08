@@ -11,6 +11,14 @@ export default [
     component: c1
   },
   {
+    path: "/projects/samuele-proto/",
+    component: c1
+  },
+  {
+    path: "/projects/tiina/",
+    component: c1
+  },
+  {
     path: "/projects/trasvedute/",
     component: c1
   },
@@ -27,6 +35,18 @@ export default [
     component: c2
   },
   {
+    path: "/projects/pietre/",
+    component: c1
+  },
+  {
+    path: "/projects/mattia-amati/",
+    component: c1
+  },
+  {
+    path: "/projects/lenni-b/",
+    component: c1
+  },
+  {
     path: "/projects/iris-giardino-sonoro/",
     component: c1
   },
@@ -39,11 +59,19 @@ export default [
     component: c2
   },
   {
+    path: "/projects/h-so/",
+    component: c1
+  },
+  {
     path: "/journal/music/",
     component: c2
   },
   {
     path: "/projects/giovesi/",
+    component: c1
+  },
+  {
+    path: "/projects/alis/",
     component: c1
   },
   {

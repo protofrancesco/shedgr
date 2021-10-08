@@ -6,6 +6,7 @@ categories:
 - brand identity
 project_bg_color: ''
 project_fg_color: ''
+draft: true
 
 ---
 ![](/uploads/identita-musa.jpg)
