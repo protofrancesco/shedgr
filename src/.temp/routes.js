@@ -27,7 +27,7 @@ export default [
     component: c1
   },
   {
-    path: "/projects/sunk/",
+    path: "/projects/rais/",
     component: c1
   },
   {
@@ -48,10 +48,6 @@ export default [
   },
   {
     path: "/projects/iris-giardino-sonoro/",
-    component: c1
-  },
-  {
-    path: "/projects/ios-concept/",
     component: c1
   },
   {
