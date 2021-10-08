@@ -7,7 +7,9 @@
         <p>Vuoi realizzare un tuo progetto? Contattaci, saremo subito da te!</p>
       </div>
 
-      <form class="contact-form" name="contact">
+      <form class="contact-form" name="contact" action="https://formspree.io/f/mayakvnr"
+  method="POST">
+        
 
         <div class="sender-info">
           <div>

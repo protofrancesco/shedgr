@@ -5,7 +5,7 @@ module.exports = {
   siteName: "SHED626 Graphic Design Studio",
   siteUrl: `https://www.shed626graphics.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
+  titleTemplate: "%s",
   siteDescription: "Studio Grafico SHED626 Firenze",
   plugins: [
     {
