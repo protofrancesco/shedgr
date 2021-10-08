@@ -31,7 +31,7 @@ export default [
     component: c1
   },
   {
-    path: "/journal/use-gridsome-vuejs/",
+    path: "/journal/video/",
     component: c2
   },
   {
@@ -55,10 +55,6 @@ export default [
     component: c1
   },
   {
-    path: "/journal/macos-development-environment/",
-    component: c2
-  },
-  {
     path: "/projects/h-so/",
     component: c1
   },
@@ -73,6 +69,10 @@ export default [
   {
     path: "/projects/alis/",
     component: c1
+  },
+  {
+    path: "/journal/foto/",
+    component: c2
   },
   {
     path: "/journal/brand-event/",
