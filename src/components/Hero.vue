@@ -1,6 +1,12 @@
 <template>
     <div class="hero">
-        <h1 class="hero-title" v-html="settings.hero_title" />
+        <g-link :to="{ name: 'home' }" class="home-link">
+                    <img 
+                        src="../../static/logo.svg"
+                        :alt="settings.site_name" 
+                        class="logo"
+                    />
+                </g-link>
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
     </div>
 </template>

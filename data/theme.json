@@ -3,12 +3,6 @@
   "dark_mode": false,
   "site_name": "SHED626 Graphic Studio",
   "site_description": "Studio Grafico a Firenze ",
-  "hero_title": "SHED626 Graphic Studio",
-  "hero_subtitle": "Studio grafico di Firenze, operiamo in brand &amp; event identity, video e photo shooting, music artworks. ",
-  "musica": [
-    "/uploads/mattia-amati-digipack.jpg",
-    "/uploads/le-pietre-dei-giganti-digipack.jpg",
-    "/uploads/h-so-digipack.jpg",
-    "/uploads/alis-digipack.jpg"
-  ]
+  "hero_title": "",
+  "hero_subtitle": "Studio grafico di Firenze, operiamo in brand &amp; event identity, video e photo shooting, music artworks. "
 }
