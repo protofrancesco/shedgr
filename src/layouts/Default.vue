@@ -9,11 +9,14 @@
 <script>
 import Header from "@/components/Header"
 import Footer from "@/components/Footer"
+import CookieConsent from 'vue-cookieconsent-component/src/components/CookieConsent.vue'
 
 export default {
   components: {
     Header,
-    Footer
+    Footer,
+    CookieConsent
+
   }
 }
 </script>

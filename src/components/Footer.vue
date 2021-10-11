@@ -2,6 +2,7 @@
     <footer class="footer">
         <div class="container">
             <span v-html="settings.footer" />
+            <cookie-consent/>
         </div>
     </footer>
 </template>

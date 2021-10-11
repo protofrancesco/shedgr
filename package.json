@@ -11,6 +11,7 @@
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
     "gridsome": "^0.7.23",
+    "vue-cookieconsent-component": "^1.2.0",
     "vueperslides": "^3.3.2"
   }
 }
