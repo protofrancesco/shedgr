@@ -47,6 +47,10 @@ export default [
     component: c1
   },
   {
+    path: "/projects/mason/",
+    component: c1
+  },
+  {
     path: "/projects/iris-giardino-sonoro/",
     component: c1
   },
