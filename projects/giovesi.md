@@ -10,7 +10,6 @@ project_fg_color: ''
 ---
 ![](/uploads/identita-giovesi.jpg)
 
-## GioveSì - Event Identity
 
 [**_GioveSì_**](https://instagram.com/giove.si?utm_medium=copy_link) è stato un evento ricreativo-culturale nato nell'ambito della campagna elettorale amministrativo di _Sinistra Italiana Sesto Fiorentino._ 
 **L'identità grafica** conferisce all'evento un impatto strettamente legato alle forme e ai colori del partito, introducendo elementi _cartoon_ connessi alla natura ludica dell'evento e al target di riferimento. 

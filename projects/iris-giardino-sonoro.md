@@ -10,8 +10,6 @@ project_fg_color: ''
 ---
 ![](/uploads/identita-iris-giardino-sonoro.jpg)
 
-## Iris Giardino Sonoro - Event Identity
-
 [**Iris Giardino Sonoro**](https://instagram.com/irisgiardinosonoro?utm_medium=copy_link) è una rassegna di **concerti Jazz** nella cornice del [Giardino dell'Iris](http://societaitalianairis.com/chi-siamo/giardino/) a Firenze. 
 
 Con una particolare attenzione alla **location,** l'identità grafica nelle sue forme cita il lagetto centrale del giardino attorno al quale si sono svolti i concerti.
