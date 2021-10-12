@@ -20,3 +20,22 @@ excerpt: Ideazione grafica e visiva dell'immagine dell'artista, realizzazione di
 
 <a href="https://www.shed626graphics.com/projects/samuele-proto/" rel="some text">![Foo](/uploads/universe.jpg)</a>
 
+#### [Mason X](https://www.shed626graphics.com/projects/mason/)
+
+<a href="https://www.shed626graphics.com/projects/mason/" rel="some text">![Foo](/uploads/polvere-art.jpg)</a>
+
+#### [Alis](https://www.shed626graphics.com/projects/alis/)
+
+<a href="https://www.shed626graphics.com/projects/alis/" rel="some text">![Foo](/uploads/alis-melatonina.jpg)</a>
+
+#### [Mattia Amati](https://www.shed626graphics.com/projects/mattia-amati/) 
+
+<a href="https://www.shed626graphics.com/projects/mattia-amati/" rel="some text">![Foo](/uploads/interno8.jpg)</a>
+
+#### [Le Pietre Dei Giganti](https://www.shed626graphics.com/projects/pietre/)
+
+<a href="https://www.shed626graphics.com/projects/pietre/" rel="some text">![Foo](/uploads/abissi-lpdg.jpg)</a>
+
+#### [H-SO](https://www.shed626graphics.com/projects/h-so/)
+
+<a href="https://www.shed626graphics.com/projects/h-so/" rel="some text">![Foo](/uploads/hso.jpg)</a>
