@@ -1,6 +1,6 @@
 ---
-date: 2019-06-07
-title: Grafica musicale
+date: 2020-11-11
+title: Grafica Musicale
 author: SHED626
 excerpt: Ideazione grafica e visiva dell'immagine dell'artista, realizzazione di cover arts, spotify canvas e social media contents.
 

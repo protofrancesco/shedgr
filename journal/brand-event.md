@@ -1,5 +1,5 @@
 ---
-date: 2019-05-17
+date: 2021-05-17
 title: Brand & Event Identity
 author: SHED626
 excerpt: Sviluppo identità grafica e d'immagine per brand ed eventi.
@@ -12,13 +12,9 @@ La _brand image_ ti aiuta ad essere riconoscibile sul mercato e ad uniformare tu
 
 ## Brand Identity
 
-(pippone sullo sviluppo dell'intentità per un brand)
+<a href="https://www.shed626graphics.com/projects/shed626-music-hub/" rel="some text">![Foo](/uploads/brand-shed.png)</a>
 
 ## Event Identity
 
-(pippone sullo sviluppo dell'identità per un evento)
+<a href="https://www.shed626graphics.com/projects/trasvedute/" rel="some text">![Foo](/uploads/brand-trasvedute.png)</a>
 
-
-### Clienti
-
-(foto ed esempi di alcuni lavori)
