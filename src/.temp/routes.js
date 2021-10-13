@@ -31,6 +31,10 @@ export default [
     component: c1
   },
   {
+    path: "/projects/reel/",
+    component: c1
+  },
+  {
     path: "/journal/video/",
     component: c2
   },

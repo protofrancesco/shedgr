@@ -12,6 +12,7 @@
             </div>
             <nav class="nav right">
                 <g-link class="nav__link" to="/journal">Servizi</g-link>
+                <g-link class="nav__link" to="/projects/reel">About</g-link>
                 <g-link class="nav__link" to="/contact">Contatti</g-link>
                 
             </nav>
