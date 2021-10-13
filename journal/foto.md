@@ -6,6 +6,12 @@ excerpt: Shooting fotografici su misura.
 
 ---
 
+Il nostro servizio di _photo shooting_ si adatta alle tue esigenze, attraverso un percorso creativo personalizzato. 
+
+Grazie all'utilizzo di varie tecniche, dall'analogico al digitale, riuscirai a comunicare al meglio la tua immagine. 
+
+I nostri servizi si rivolgono a realtà private o commerciali che vogliono trasmettere al meglio la loro passione e il loro lavoro. 
+
 ## Portrait
 
 <p style="text-align: right;">“How do we start taking pictures of people, and stop taking pictures of poses?”</p>

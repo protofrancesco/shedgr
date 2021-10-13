@@ -6,9 +6,9 @@ excerpt: Sviluppo identità grafica e d'immagine per brand ed eventi.
 
 ---
 
-![](/uploads/identita-shed.jpg)
+Il nostro servizio di _brand & event identity_ serve a creare, sviluppare un'immagine aziendale solida ed efficace. 
 
-Il nostro servizio di _brand & event identity_ aiuta il cliente a creare, sviluppare e rendere reale l'immagine della sua attività o evento. 
+La _brand image_ ti aiuta ad essere riconoscibile sul mercato e ad uniformare tutte le comunicazioni della tua attività.
 
 ## Brand Identity
 

@@ -1,10 +1,18 @@
 ---
 date: 2019-05-18
-title: Video Shooting
+title: Videomaking
 author: SHED626
 excerpt: Videoclip e creazione, montaggio e svilippo video. 
 
 ---
+
+Il nostro servizio di videomaking risponde alle esigenze comunicative odierne: il video è il principe dei social e ti permette di arrivare in maniera più efficace e diretta al tuo pubblico o ai tuoi clienti. 
+
+Attraverso un percorso creativo personalizzato creeremo insieme contenuti sia canonici - videoclip, video pubblicitari - che contenuti di minore durata perfetti per i social. 
+
+Non solo, quale miglior modo di raccontare i tuoi eventi, se non attraverso un _aftermovie_?
+
+
 
 ## Videoclip musicali
 

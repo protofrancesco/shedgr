@@ -5,6 +5,11 @@ author: SHED626
 excerpt: Ideazione grafica e visiva dell'immagine dell'artista, realizzazione di cover arts, spotify canvas e social media contents.
 
 --- 
+
+Il nostro servizio di grafiva musicale ti aiuta a trasformare in immagine il tuo concetto artistico. 
+
+La _cover art_, in particolare, è il biglietto da visita del tuo lavoro discografico: ha un'importanza basilare perché riesce a rappresentarti a livello figurativo. 
+
 ## Artisti 
 
 #### [tiina](https://www.shed626graphics.com/projects/tiina/)

@@ -17,7 +17,7 @@
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Cognome</label>
+            <label for="email" class="label">Email</label>
             <input type="email" name="email" />
           </div>
         </div>
