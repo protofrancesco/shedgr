@@ -30,6 +30,8 @@ Non solo, quale miglior modo di raccontare i tuoi eventi, se non attraverso un _
 
 #### [SpinnIt](https://www.shed626graphics.com/projects/spinnit/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_nXjuCnsk0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uCHxm47oN0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4sM3kLWewo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
