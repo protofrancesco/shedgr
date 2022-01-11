@@ -23,6 +23,10 @@ export default [
     component: c1
   },
   {
+    path: "/projects/sommella/",
+    component: c1
+  },
+  {
     path: "/projects/spinnit/",
     component: c1
   },
