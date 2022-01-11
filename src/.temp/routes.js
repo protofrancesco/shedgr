@@ -75,6 +75,10 @@ export default [
     component: c1
   },
   {
+    path: "/projects/dolce-vita/",
+    component: c1
+  },
+  {
     path: "/projects/alis/",
     component: c1
   },
